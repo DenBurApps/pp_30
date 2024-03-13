@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "568615911762",
+    "project_id": "plinkotstgamepp30",
+    "storage_bucket": "plinkotstgamepp30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568615911762:ios:5eead3e43e0d8ca7c0ba8b",
+        "android_client_info": {
+          "package_name": "com.PLgm.gtdmPpp30"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbfmSt3PcoMeeS7-GbOjwu5I2qdrityV8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
